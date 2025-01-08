@@ -1,3 +1,3 @@
 <h1>Crop Scrapper</h1>
 
-This Python app is designed to scrape data from a price quotation page for agricultural commodities: https://cepea.esalq.usp.br/br/. In addition, it processes the scraped data and converts it into an Excel file.
+This Python app is built to scrape price quotation data for agricultural commodities from the page: https://cepea.esalq.usp.br/br/. Additionally, the app processes the scraped data and converts it into an organized Excel file for further analysis.
